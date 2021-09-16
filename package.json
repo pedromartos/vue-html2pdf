@@ -24,7 +24,7 @@
     "html2pdf"
   ],
   "dependencies": {
-    "html2pdf.js": "^0.9.2"
+    "html2pdf.js": "git@github.com:pedromartos/html2pdf.js.git"
   },
   "devDependencies": {
     "@rollup/plugin-alias": "^2.2.0",
